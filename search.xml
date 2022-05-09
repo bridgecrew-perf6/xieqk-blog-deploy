@@ -96,13 +96,13 @@
             
             <tag> nvidia </tag>
             
+            <tag> top </tag>
+            
             <tag> gpu </tag>
             
             <tag> nvidia-smi </tag>
             
             <tag> PID </tag>
-            
-            <tag> top </tag>
             
         </tags>
       
